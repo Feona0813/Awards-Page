@@ -1,0 +1,66 @@
+li{
+    text-align:center;
+    font-family: 'Ubuntu Condensed', sans-serif;
+    font-size: 30px;
+}
+.title{
+        text-align:center;
+    color:RoyalBlue;
+}
+.place{
+        text-align:left;
+    color:Sienna;
+}
+.list{
+        text-align:center;
+    color:SpringGreen;
+}
+.pink{
+    color:Pink;
+}
+.yellow{
+    color:darkviolet;
+}
+.sky{
+    color: lightblue;
+}
+.web{
+    color:gray;
+}
+.AG{
+    text-align:center;
+    font-family: 'Kaushan Script', cursive;
+        color:DeepPink;
+}
+.left{
+        width:400px;
+height:200px;
+}
+.center{
+height:200px;
+        width:400px;
+}
+.right{
+    height:300px;
+        width:400px;
+}
+.BGC{
+            text-align:center;
+    font-family: 'Amatic SC', cursive;
+        font-size:30px;
+        color:Indigo;
+}
+.BGS{
+        text-align:center;
+    font-family: 'Kaushan Script', cursive;
+        color:MediumVioletRed;
+}
+.MPG{
+            text-align:center;  
+    font-family: 'Amatic SC', cursive;
+    font-size:30px;
+        color:Navy;
+}
+body{
+    background-image: url("https://th.bing.com/th/id/OIP.xyb6QvGYN9e7ysM2As1f7wHaDS?w=343&h=155&c=7&o=5&dpr=1.25&pid=1.7");
+}
